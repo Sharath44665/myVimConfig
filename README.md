@@ -1,0 +1,2 @@
+# myVimConfig
+simple vim configuration
