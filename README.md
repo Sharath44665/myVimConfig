@@ -7,6 +7,8 @@ inside `.vimrc`
 
 ``` vi
 set number
+set mouse=a
+
 inoremap { {}<Esc>ha
 inoremap ( ()<Esc>ha
 inoremap [ []<Esc>ha
