@@ -1,7 +1,7 @@
 # myVimConfig
 simple vim configuration
 
-- create `.vimrc` in home directory
+- create file `.vimrc` in home directory
 
 inside `.vimrc`
 
