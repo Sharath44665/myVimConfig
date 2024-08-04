@@ -26,7 +26,11 @@ if has("autocmd")
 \ endif
 au VimLeave * silent execute '!echo -ne "\e[ q"' | redraw!
 endif
+```
+continue the following inside `.vimrc`
+refer to this 👉 [link](https://github.com/junegunn/vim-plug) 👈
 
+```
 call plug#begin()
 
 " List your plugins here
