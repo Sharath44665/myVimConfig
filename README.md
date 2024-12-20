@@ -39,4 +39,9 @@ Plug 'tpope/vim-sensible'
 call plug#end()
 ```
 
+## Tip: how to reload file in console
+
+```
+source file_name
+```
 
